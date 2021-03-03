@@ -1,7 +1,7 @@
 The Scarf Package Manager is an experimental prototype of a package manager and ecosystem that supports open-source development by:
 
 - Sharing package usage data with the package maintainers 
-- Providing tooling for commercial efforts around their open-source work, baked into the distribution layer
+- Providing tooling for maintainers' commercial efforts around their open-source work, baked into the distribution layer
 
 We are in the process of a full rewrite of this package manager, equipped with many lessons from this prototype and some exciting new core technology. Follow us for updates.
 
